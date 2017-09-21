@@ -1,0 +1,15 @@
+try/
+training/
+testing/
+all/
+chuck/
+*.pyc
+*.swp
+.ipynb_checkpoints/
+pretrained_models/
+*.avi
+yolo\ v2/
+*.swo
+train.rec
+val.rec
+data.rec
